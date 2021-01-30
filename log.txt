@@ -1,0 +1,861 @@
+python3: can't open file '/home/pi/Deskop/twitter_bot.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "/home/pi/Desktop/twitter_bot.py", line 8, in <module>
+    WORDLIST = open(WORD_FILE_PATH).read().splitlines()
+FileNotFoundError: [Errno 2] No such file or directory: 'nouns.txt'
+rags
+jamdani khadi 
+bedsheets charpoy panjabi 
+tophat epaulet 
+Wed Jan 13 02:38:04 +0000 2021
+element
+link plug valves motors 
+question discussed inspected 
+qualification 
+Wed Jan 13 14:38:06 +0000 2021
+Thu Jan 14 02:38:06 +0000 2021
+Title: acronyms
+are still continued 
+adb asian america 
+are all means any 
+
+
+Thu Jan 14 05:05:05 +0000 2021
+Title: tank
+truck driver asked was 
+engine cylinder piston 
+effluent outfall 
+
+
+Thu Jan 14 09:05:06 +0000 2021
+Title: compartments
+filled populated 
+contain iron foundry works 
+filled placed under that 
+
+
+Thu Jan 14 13:05:07 +0000 2021
+Title: yolks
+and would never cease 
+together through its products 
+and not far better 
+
+
+Thu Jan 14 17:05:05 +0000 2021
+Title: alignment
+chart illustrates makes 
+buttons undone unfinished 
+errors occur that 
+
+
+Thu Jan 14 21:05:07 +0000 2021
+Title: materials
+substantial grounds cause 
+and not just some other place 
+substantial results 
+
+
+Fri Jan 15 01:05:06 +0000 2021
+Title: focuses
+mainly because most 
+particularly great big 
+less true christian faith 
+
+
+Fri Jan 15 05:05:07 +0000 2021
+Title: categories
+groups and she also 
+listed according show the 
+under the next ten 
+
+
+Fri Jan 15 09:05:07 +0000 2021
+Title: measurements
+showed clearly more and 
+performed in this kind words speech 
+show more and its new 
+
+
+Fri Jan 15 13:05:06 +0000 2021
+Title: lashes
+fanned her daughter girls 
+swept away any trouble 
+fluttering pulse rate 
+
+
+Fri Jan 15 17:05:06 +0000 2021
+Title: travel
+agencies themselves 
+agency was all members 
+agency charged with 
+
+
+Fri Jan 15 21:05:06 +0000 2021
+Title: attachments
+to take and others 
+adherence adhesiveness 
+fond regard such and 
+
+
+Sat Jan 16 01:05:07 +0000 2021
+Title: junk
+box displays a man 
+heaps stack pointers to poi come 
+pile carpets mat knife 
+
+
+Sat Jan 16 05:05:06 +0000 2021
+Title: patrols
+were considered both 
+periodicals indexed 
+journals of the third 
+
+
+Sat Jan 16 09:05:05 +0000 2021
+Title: advantages
+offered gave them some 
+disadvantages compared 
+possessed of their own 
+
+
+Sat Jan 16 13:05:06 +0000 2021
+Title: brain
+functioning market 
+res commun health act done well 
+trust accounts invoice 
+
+
+Sat Jan 16 17:05:06 +0000 2021
+Title: earth
+metals gilded age 
+below left flank attack made 
+orbit coupling coil 
+
+
+Sat Jan 16 21:05:06 +0000 2021
+Title: quarter
+inch width across from 
+million tonnes valued most marked 
+inch thickness ranges 
+
+
+Sun Jan 17 01:05:05 +0000 2021
+Title: dimension
+aspects expression 
+property sold abroad and 
+being under each 
+
+
+Sun Jan 17 05:05:07 +0000 2021
+Title: acceptor
+atom model the 
+molecule of his wife the 
+molecule formed planned 
+
+
+Sun Jan 17 09:05:06 +0000 2021
+Title: accruement
+payments due for the 
+availment eous jute twine 
+donative of this 
+
+
+Sun Jan 17 13:05:06 +0000 2021
+Title: commission
+concluded complete 
+members penis is that all 
+the second act may 
+
+
+Sun Jan 17 17:05:04 +0000 2021
+Title: income
+taxation years old 
+inequality measure 
+inequality 
+
+
+Sun Jan 17 21:05:06 +0000 2021
+Title: revolutions
+in an important 
+round here before his death the 
+per 100 century 
+
+
+Mon Jan 18 01:05:05 +0000 2021
+Title: requirements
+engineering feat 
+specified condition term 
+and its general 
+
+
+Mon Jan 18 05:05:07 +0000 2021
+Title: ton
+weight ratio for 
+steam traction company law 
+more than mere tool kit 
+
+
+Mon Jan 18 09:05:08 +0000 2021
+Title: pounds
+lighter style of the 
+more and what they can you are 
+lighter shade plants grow 
+
+
+Mon Jan 18 13:05:07 +0000 2021
+Title: cements
+used successfully 
+contain the same with her child 
+together these were 
+
+
+Mon Jan 18 17:05:06 +0000 2021
+Title: firmware
+installed windows closed 
+download pictures the way can 
+version copies have 
+
+
+Mon Jan 18 21:05:05 +0000 2021
+Title: engineer
+units building block 
+corps troops entered according 
+mastermind was all 
+
+
+Tue Jan 19 01:05:07 +0000 2021
+Title: mattress
+cover tightly bound 
+pads placed over for an neuf 
+stuffed shirts hanging wall 
+
+
+Tue Jan 19 05:05:08 +0000 2021
+Title: recess
+periods stop here 
+time after year than mere word 
+time can become more 
+
+
+Tue Jan 19 09:05:07 +0000 2021
+Title: magnets
+used for all those men 
+attractions offered advice 
+placed with its products 
+
+
+Tue Jan 19 13:05:06 +0000 2021
+Title: degrees
+celsius scales of 
+awarded prizes won was 
+conferred by their minds 
+
+
+Tue Jan 19 17:05:08 +0000 2021
+Title: icing
+spatula to be 
+bag are not keep house put up 
+spatula needle 
+
+
+Tue Jan 19 21:05:06 +0000 2021
+Title: sum
+paid employees are 
+total average figure 
+payable thereon 
+
+
+Wed Jan 20 01:05:07 +0000 2021
+Title: polices
+the great mass scale score 
+patrol vehicle routing 
+adopted child the 
+
+
+Wed Jan 20 05:05:05 +0000 2021
+Title: maples
+individuals 
+turn next few cases such things 
+acers sweet william 
+
+
+Wed Jan 20 09:05:07 +0000 2021
+Title: bypasses
+get around here were 
+performed miracles are they 
+the third the first phase 
+
+
+Wed Jan 20 13:05:06 +0000 2021
+Title: deeds
+done enough money 
+that will turn out without their 
+registration marks 
+
+
+Wed Jan 20 17:05:12 +0000 2021
+Title: entrapments
+are these two men were 
+and would not even here and 
+and she really true 
+
+
+Wed Jan 20 21:05:07 +0000 2021
+Title: blueprint
+of these can you will 
+paper presented this same 
+of their mothers and 
+
+
+Thu Jan 21 01:05:16 +0000 2021
+Title: tables
+give thee alone all 
+turned round here for their home state 
+turned inside cover 
+
+
+Thu Jan 21 05:05:07 +0000 2021
+Title: gyroscopes
+gyros in an ens 
+to have found dead bodies corpse 
+to take and others 
+
+
+Thu Jan 21 09:05:05 +0000 2021
+Title: chiefs
+also important 
+agreed with her husband the 
+head bent forward the 
+
+
+Thu Jan 21 13:05:06 +0000 2021
+Title: obligations
+undertaken was 
+due care professional work 
+incurred expenses 
+
+
+Thu Jan 21 17:05:06 +0000 2021
+Title: typists
+who had brought forward 
+typing speed record label 
+typing skill displayed 
+
+
+Thu Jan 21 21:05:07 +0000 2021
+Title: delimiters
+specified set that 
+include other such things will 
+of the first phase shift 
+
+
+Fri Jan 22 01:05:07 +0000 2021
+Title: present
+during recent times 
+was always remains unchanged 
+stage process can look 
+
+
+Fri Jan 22 05:05:06 +0000 2021
+Title: salt
+shaker screen grid nodes 
+intake manifolds with all 
+concentration camp 
+
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 159, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 80, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 70, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 343, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 841, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 301, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 168, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0xb59d6330>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.datamuse.com', port=443): Max retries exceeded with url: /words?sp=deputy&md=s&max=1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb59d6330>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/twitter_bot.py", line 67, in <module>
+    topic = get_topic_word()
+  File "/home/pi/Desktop/twitter_bot.py", line 23, in get_topic_word
+    "max": MAX_RESULTS,
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.datamuse.com', port=443): Max retries exceeded with url: /words?sp=deputy&md=s&max=1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb59d6330>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 159, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 80, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 70, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 343, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 841, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 301, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 168, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0xb59a82b0>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.datamuse.com', port=443): Max retries exceeded with url: /words?sp=profession&md=s&max=1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb59a82b0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/twitter_bot.py", line 67, in <module>
+    topic = get_topic_word()
+  File "/home/pi/Desktop/twitter_bot.py", line 23, in get_topic_word
+    "max": MAX_RESULTS,
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.datamuse.com', port=443): Max retries exceeded with url: /words?sp=profession&md=s&max=1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb59a82b0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 159, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 80, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 70, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 343, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 841, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 301, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 168, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0xb59ad310>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.datamuse.com', port=443): Max retries exceeded with url: /words?sp=life&md=s&max=1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb59ad310>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/twitter_bot.py", line 67, in <module>
+    topic = get_topic_word()
+  File "/home/pi/Desktop/twitter_bot.py", line 23, in get_topic_word
+    "max": MAX_RESULTS,
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.datamuse.com', port=443): Max retries exceeded with url: /words?sp=life&md=s&max=1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb59ad310>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 159, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 80, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 70, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 343, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 841, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 301, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 168, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0xb59a6370>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.datamuse.com', port=443): Max retries exceeded with url: /words?sp=quiets&md=s&max=1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb59a6370>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/twitter_bot.py", line 67, in <module>
+    topic = get_topic_word()
+  File "/home/pi/Desktop/twitter_bot.py", line 23, in get_topic_word
+    "max": MAX_RESULTS,
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.datamuse.com', port=443): Max retries exceeded with url: /words?sp=quiets&md=s&max=1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb59a6370>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 159, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 80, in create_connection
+    raise err
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 70, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 343, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 841, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 301, in connect
+    conn = self._new_conn()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 168, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.VerifiedHTTPSConnection object at 0xb5910270>: Failed to establish a new connection: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.datamuse.com', port=443): Max retries exceeded with url: /words?sp=participation&md=s&max=1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb5910270>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Desktop/twitter_bot.py", line 67, in <module>
+    topic = get_topic_word()
+  File "/home/pi/Desktop/twitter_bot.py", line 23, in get_topic_word
+    "max": MAX_RESULTS,
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.datamuse.com', port=443): Max retries exceeded with url: /words?sp=participation&md=s&max=1 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0xb5910270>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sat Jan 23 21:05:06 +0000 2021
+Title: berth
+wider spread played out
+easy respectful distance
+fourth dead past month class
+
+
+Sat Jan 23 21:43:22 +0000 2021
+Title: hinges
+double meaning fold
+massive white french people stone
+flexible budget
+
+
+Sat Jan 23 21:44:36 +0000 2021
+Title: sip
+second twelfth week week
+grateful true source affection
+loud real name slap bang
+
+
+Sat Jan 23 22:02:06 +0000 2021
+Title: sample
+extra est sub
+single individual
+limited key role
+
+
+Sun Jan 24 03:29:12 +0000 2021
+Title: economies
+rural real world life
+african oppressed peoples
+developed regions
+
+
+Sun Jan 24 03:30:06 +0000 2021
+Title: resistors
+high upward pressure
+diffused greenish water glow
+nonlinear term
+
+
+Sun Jan 24 03:31:03 +0000 2021
+Title: straighteners
+colored women hair
+specific type chemical
+wet rice chemical
+
+
+Sun Jan 24 03:38:38 +0000 2021
+Title: injections
+intraperitoneal
+weekly average payroll
+intermittent war
+
+
+Sun Jan 24 05:00:05 +0000 2021
+Title: samples
+small provincial towns
+duplicate false starts entries
+large variety
+
+
+Sun Jan 24 11:00:05 +0000 2021
+Title: warships
+spanish wrecked tanks ship
+soviet less influence
+american war
+
+
+Sun Jan 24 17:00:06 +0000 2021
+Title: prerequisite
+first cool light breeze place
+first set final hardening
+minimum set all
+
+
+Sun Jan 24 23:00:05 +0000 2021
+Title: mistrials
+several such cases
+many ended boat questions
+several southern states
+
+
+Mon Jan 25 05:00:07 +0000 2021
+Title: alternates
+deductive closed form
+many few first hours men
+bright red tailed deer light
+
+
+Mon Jan 25 11:00:06 +0000 2021
+Title: odors
+musty fourth volume
+unusual next event
+bad white children men
+
+
+Mon Jan 25 17:00:05 +0000 2021
+Title: crusts
+yellow bare metal
+green bourgeois revolution
+microbial mats
+
+
+Mon Jan 25 23:00:07 +0000 2021
+Title: fifty
+twenty six two eight
+entire program day six
+old big broad smile house
+
+
+Tue Jan 26 05:00:06 +0000 2021
+Title: spades
+handled clean ladle
+long longer just distances
+strong deep sense feeling
+
+
+Tue Jan 26 11:00:06 +0000 2021
+Title: spare
+micro foundations
+present local conditions
+ill consequences
+
+
+Tue Jan 26 17:00:04 +0000 2021
+Title: satellites
+highest altitude
+geosynchronous wide arc
+environmental
+
+
+Tue Jan 26 23:00:06 +0000 2021
+Title: thirteens
+few rare exceptions
+many fast known breeder friends
+many male patients
+
+
+Wed Jan 27 05:00:07 +0000 2021
+Title: ideas
+key dead chief feature
+fresh inner right track side light
+fresh material
+
+
+Wed Jan 27 11:00:06 +0000 2021
+Title: people
+local government
+native whole day villages
+rich day working men
+
+
+Wed Jan 27 17:00:06 +0000 2021
+Title: polarities
+electrical shock
+such ethical codes questions
+false accusation
+
+
+Wed Jan 27 23:00:07 +0000 2021
+Title: diver
+young white spots people
+green wet dim light bulb leaves hell
+excellent review
+
+
+Thu Jan 28 05:00:07 +0000 2021
+Title: bore
+big vexed heart question
+cubic big man five metres
+tusked young male child males
+
+
+Thu Jan 28 11:00:08 +0000 2021
+Title: suns
+many hot plate months
+miniature male rats swine
+tiny largest town
+
+
+Thu Jan 28 17:00:05 +0000 2021
+Title: commitment
+professional men
+genuine deep commitment
+strong mighty roar arm
+
+
+Thu Jan 28 23:00:06 +0000 2021
+Title: bricks
+white black wooled sheep flag
+loose strict rule making bodies
+old christian art church
+
+
+Fri Jan 29 05:00:06 +0000 2021
+Title: decibels
+more concrete details
+splitting convenient method
+deafening music
+
+
+Fri Jan 29 11:00:07 +0000 2021
+Title: commendations
+lavish best plan use
+princely separate group states
+hartie humble thankes
+
+
+Fri Jan 29 17:00:06 +0000 2021
+Title: observer
+contemporary
+neutral strong ties stimulus
+western greek myth art
+
+
+Fri Jan 29 23:00:06 +0000 2021
+Title: lead
+false such places claims
+soft fizzy bad luck stuff drinks
+pure external air
+
+
+Sat Jan 30 02:02:59 +0000 2021
+Title: photos
+rare fine qualities
+framed opposite own sex page
+original form
+
+
