@@ -894,3 +894,10 @@ separate social unit
 interesting problems
 
 
+Sun Jan 31 11:00:05 +0000 2021
+Title: amplitudes
+high order signal
+maximum next move level
+average distance
+
+
